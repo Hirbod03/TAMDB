@@ -1,4 +1,5 @@
-# SQL Project: Teaching Assistant Management System ![ta](https://github.com/user-attachments/assets/e39ffb0d-3609-45e7-8b95-746255ce7a47)
+# SQL Project: Teaching Assistant Management System ![db](https://github.com/user-attachments/assets/53033302-d2ad-46fe-b0bb-3a9421003265)
+
 
 
 ## Overview
