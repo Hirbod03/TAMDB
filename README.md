@@ -1,4 +1,5 @@
-# SQL Project: Teaching Assistant Management System
+# SQL Project: Teaching Assistant Management System ![ta](https://github.com/user-attachments/assets/e39ffb0d-3609-45e7-8b95-746255ce7a47)
+
 
 ## Overview
 This project is designed to showcase my SQL skills through the development of a comprehensive database for managing teaching assistants (TAs) and their assignments at a university. The database will track TA details, the courses they assist with, and their preferences. This project involves ER diagram design, SQL data manipulation, and complex querying to demonstrate proficiency in SQL.
